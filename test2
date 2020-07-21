@@ -1,5 +1,4 @@
 #Python
 x=13
-resultat=x+2
-resultat=resultat*2
+resultat=z+2
 print(resultat)
