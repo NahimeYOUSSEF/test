@@ -1,4 +1,4 @@
 #Python
 x=13
-resultat=z+2
-print(resultat)
+resultat=x+2
+prit(resultat)
